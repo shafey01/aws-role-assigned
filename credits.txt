@@ -1,12 +1,1 @@
-{
-    "Credentials": {
-        "AccessKeyId": "ASIA6NO6WDZLMJ67ZD5N",
-        "SecretAccessKey": "5O/w8KRzrAcoldVS0dwgm4Xy5rXMHrMFydCW9mWx",
-        "SessionToken": "FwoGZXIvYXdzELz//////////wEaDCI6lGC1VQ7rcWYOBSKqAcGtmbrLYticRpp324IiDzdzJmCG3jDUCCl5B8iEeAaeWgZoJKBxUPdbQ61RS87tvOiYGhLDiPldXXYar8mwD2MNJFLjqZcOH4XAUNnpbWBXMSRvCxoznlUcQ0kw/Or1MCUnvtGCIwo9o9fbrg/BHPeyC1H4QYsi6bAz3ghbnZLKGdDr/uiO1UchDwjMG8KZVlbBaS97KyqFc/cc5Nn/7LavmqYy0ZRLIYYpKL7ng6YGMi39UxreWgvaKwf8XxzslZaWeTYvXmjtefrenkatwtsrxl5lqY8q0qyFKOSALeg=",
-        "Expiration": "2023-07-26T12:21:50Z"
-    },
-    "AssumedRoleUser": {
-        "AssumedRoleId": "AROA6NO6WDZLAKOPBML4C:bricks",
-        "Arn": "arn:aws:sts::990993849942:assumed-role/ibtikar_access/bricks"
-    }
-}
+
