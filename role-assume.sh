@@ -27,20 +27,15 @@ aws configure set region $region --profile $role_session_name
 
 
 
-AWS_DEFAULT_PROFILE=${role_session_name}
-export $AWS_DEFAULT_PROFILE
 
-echo $AWS_DEFAULT_PROFILE
 aws sts get-caller-identity
 
 
 export AWS_DEFAULT_PROFILE=${role_session_name}
 
-#for key in "${!credits[@]}"
-#do
-#    echo "$key = ${credits[$key]}"
-#done
-
+echo " "
+echo "#############################"
+echo "AWS_DEFAULT_PROFILE:  $AWS_DEFAULT_PROFILE"
 
 
 
